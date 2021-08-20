@@ -1,2 +1,2 @@
 # Calculator
- New create
+A simple calculator made with java.
